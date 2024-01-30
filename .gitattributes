@@ -1,0 +1,11 @@
+* text=auto
+
+/.gitattributes  export-ignore
+/.github         export-ignore
+/.gitignore      export-ignore
+/.php_cs.php     export-ignore
+/.travis.yml     export-ignore
+/CHANGELOG.md    export-ignore
+/phpunit.xml     export-ignore
+/README.md       export-ignore
+/tests           export-ignore
